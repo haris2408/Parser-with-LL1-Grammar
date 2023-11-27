@@ -1,0 +1,25 @@
+S $
+PROG $
+PROGE $
+DEC def $
+COL {
+KEY id
+VARDEC )
+VARDECNE )
+VARDECNEE )
+BLOCK / - != == } > ) >= else * then + def : and <= $ , < or %
+ENE }
+EXP } : * and > + <= then / - != , < == >= or %
+EXPE } : * and > + <= then / - != , < == >= or %
+EXPEE } : * and > + <= then / - != , < == >= or %
+ARGS )
+KEYWORD (
+QUOTES num
+STRING “
+STRINGE “
+ARGSNE )
+ARGSNEE )
+OPLIT (
+IDFR / ( - = != == } > “ ) >= in not id * then + : and <= , < or %
+INTLIT / - != == } > ) >= id * then + : and <= , < or %
+BINOP id num float if for while print ( int str
